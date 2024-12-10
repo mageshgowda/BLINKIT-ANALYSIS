@@ -1,4 +1,4 @@
-README: BLINKIT Analysis Project
+
 Project Name: BLINKIT Analysis
 Duration: November 2023 – January 2024
 
